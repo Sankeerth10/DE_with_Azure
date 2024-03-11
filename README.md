@@ -1,5 +1,7 @@
 # Data Engineering with Microsoft Azure
-we delve into the the Tokyo Olympics dataset from Kaggle using the robust capabilities of Microsoft Azure's cloud platform. This project is designed to showcase the integration and analytical power of Azure Services, including Azure Data Factory, Data Lake Gen2, Databricks, and Synapse Analytics. Our goal is to provide insights into the Tokyo Olympics dataset, utilizing Azure for data engineering tasks.
+We delve into the the Tokyo Olympics dataset from Kaggle using the robust capabilities of Microsoft Azure's cloud platform. This project is designed to showcase the integration and analytical power of Azure Services, including 
+**Azure Data Factory**, **Data Lake Gen2**, **Databricks**, and **Synapse Analytics**.
+Our goal is to provide insights into the Tokyo Olympics dataset, utilizing Azure for data engineering tasks.
 
 Project Overview
 The Tokyo Olympics dataset provides a comprehensive look at the athletes, events, and results from the games. Our project utilizes a series of Microsoft Azure services to extract, transform, load (ETL), and analyze this data, presenting findings that offer a deeper understanding of the dataset through the lens of Azure's cloud technology.
